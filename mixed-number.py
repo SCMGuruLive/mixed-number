@@ -3,7 +3,7 @@
 # mixed-number.py
 # A program that teaches about and computes mixed numbers from improper
 # fractions.
-# Copyright (C) 2020  Scott C. MacCallum
+# Copyright (C) 2020 Scott C. MacCallum
 # Email: scott@scm.guru
 
 # This program is free software: you can redistribute it and/or modify
